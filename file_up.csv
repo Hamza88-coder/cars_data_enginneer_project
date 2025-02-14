@@ -1,6 +1,6 @@
 Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length,date_id
 Acura,MDX,SUV,Asia,All,"$36,945 ","$33,337 ",3.5,6.0,265.0,17.0,23.0,4451.0,106.0,189.0,2022-11-03
-Acura,RSX Type S 2dr,Sedan,Asia,Front,"$23,820 ","$21,761 ",2.0,4.0,200.0,24.0,31.0,2778.0,101.0,172.0,2023-06-16
+Acura,RSX Type S 2dr,Sedan,Asia,Front,"$23,820 ","$21,761 ",2.0,4.0,200.0,24.0,31.0,2778.0,101.0,172.0,2023-07-16
 Acura,TSX 4dr,Sedan,Asia,Front,"$26,990 ","$24,647 ",2.4,4.0,200.0,22.0,29.0,3230.0,105.0,183.0,2020-10-27
 Acura,TL 4dr,Sedan,Asia,Front,"$33,195 ","$30,299 ",3.2,6.0,270.0,20.0,28.0,3575.0,108.0,186.0,2022-09-11
 Acura,3.5 RL 4dr,Sedan,Asia,Front,"$43,755 ","$39,014 ",3.5,6.0,225.0,18.0,24.0,3880.0,115.0,197.0,2023-12-29
