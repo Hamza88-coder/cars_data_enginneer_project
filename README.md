@@ -36,4 +36,4 @@ To run this project on your own Azure account, follow these steps:
 ### 2. **Clone the Repository**
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Hamza88-coder/cars_data_enginneer_project.git
